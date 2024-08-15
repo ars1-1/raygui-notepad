@@ -1,3 +1,3 @@
 # Notepad
-Notepad created using the raygui library
-Lang: C++
+<div>Notepad created using the raygui library</div>
+<div>Lang: C++</div>
