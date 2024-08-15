@@ -1,2 +1,3 @@
-# raygui-notepad
-Notepad raygui lib
+# Notepad
+Notepad created using the raygui library
+Lang: C++
